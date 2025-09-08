@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type" : "minecraft:model",
+    "model": "tutorialmod:item/silver_bar"
+  }
+}
