@@ -2,5 +2,8 @@
   "item.tutorialmod.enderite_ingot": "Enderite Ingot",
   "item.tutorialmod.enderite_goo": "Enderite Goo",
   "item.tutorialmod.raw_silver": "Raw Silver",
-  "item.tutorialmod.silver_bar": "Silver Bar"
+  "item.tutorialmod.silver_bar": "Silver Bar",
+
+  "item.tutorialmod.enderite_block": "Block of Enderite",
+  "item.tutorialmod.enderite_ore": "Enderite Ore"
 }
