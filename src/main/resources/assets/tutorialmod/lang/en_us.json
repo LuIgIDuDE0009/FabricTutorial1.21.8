@@ -5,5 +5,8 @@
   "item.tutorialmod.silver_bar": "Silver Bar",
 
   "item.tutorialmod.enderite_block": "Block of Enderite",
-  "item.tutorialmod.enderite_ore": "Enderite Ore"
+  "item.tutorialmod.enderite_ore": "Enderite Ore",
+  "item.tutorialmod.raw_silver_block": "Block of Raw Silver",
+
+  "itemgroup.tutorialmod.tutorial_mod_items": "Tutorial Mod Items"
 }

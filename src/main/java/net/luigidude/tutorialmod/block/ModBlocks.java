@@ -19,6 +19,8 @@ public class ModBlocks {
             AbstractBlock.Settings.create().strength(5f).requiresTool().sounds(BlockSoundGroup.AMETHYST_BLOCK));
     public static final Block ENDERITE_ORE = registerBlock("enderite_ore",
             AbstractBlock.Settings.create().strength(5f).requiresTool().sounds(BlockSoundGroup.STONE));
+    public static final Block RAW_SILVER_BLOCK = registerBlock("raw_silver_block",
+            AbstractBlock.Settings.create().strength(5f).requiresTool().sounds(BlockSoundGroup.STONE));
 
     private static Block registerBlock(String name, AbstractBlock.Settings blockSettings) {
         RegistryKey<Block> key = RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(TutorialMod.MOD_ID, name));
@@ -39,6 +41,7 @@ public class ModBlocks {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(fabricItemGroupEntries -> {
             fabricItemGroupEntries.add(ModBlocks.ENDERITE_BLOCK);
             fabricItemGroupEntries.add(ModBlocks.ENDERITE_ORE);
+            fabricItemGroupEntries.add(ModBlocks.RAW_SILVER_BLOCK);
         });
     }
 }
