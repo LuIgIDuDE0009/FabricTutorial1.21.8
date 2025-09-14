@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "tutorialmod:block/raw_silver_block"
+    "layer0": "tutorialmod:block/silver_ore"
   }
 }

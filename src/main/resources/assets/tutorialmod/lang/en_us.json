@@ -7,6 +7,8 @@
   "item.tutorialmod.enderite_block": "Block of Enderite",
   "item.tutorialmod.enderite_ore": "Enderite Ore",
   "item.tutorialmod.raw_silver_block": "Block of Raw Silver",
+  "item.tutorialmod.silver_block": "Block of Silver",
+  "item.tutorialmod.silver_ore": "Silver Ore",
 
   "itemgroup.tutorialmod.tutorial_mod_items": "Tutorial Mod Items"
 }
